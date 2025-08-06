@@ -6,11 +6,7 @@
 **Priority:** Medium  
 **Severity:** Medium  
 
----
-
-## 📎 Attachments
-
-- ![Screenshot](Screenshot.PNG)  
+--- 
 
 ---
 
